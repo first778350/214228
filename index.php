@@ -25,8 +25,8 @@ maximum-scale=1.0, user-scalable=no'>
                     </div>
                     <select class='filter__selector'>
                         <option>All</option>
-                        <option>Room size &lt; 32 m²</option>
-                        <option>Room size &gt;= 32 m²</option>
+                        <option>Room size &lt; 32 m&#178;</option>
+                        <option>Room size &gt;= 32 m&#178;</option>
                     </select>
                 </aside>
                 <div class='product__list layout__row'>
